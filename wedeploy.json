@@ -1,0 +1,7 @@
+{
+	"id": "liferay",
+	"volume": "/opt/liferay",
+	"memory": 4096,
+	"cpu": 3,
+	"port": 8080
+}
