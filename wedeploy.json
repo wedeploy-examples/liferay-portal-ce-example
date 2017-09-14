@@ -1,5 +1,5 @@
 {
-	"id": "liferay",
+	"id": "portal",
 	"volume": "/opt/liferay",
 	"memory": 4096,
 	"cpu": 3,
