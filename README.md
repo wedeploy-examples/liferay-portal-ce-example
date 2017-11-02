@@ -1,5 +1,13 @@
-# WeDeploy Demo Liferay Portal
+# Liferay Portal [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-Get started with WeDeploy by [creating an account](https://console.wedeploy.com/signup).
+A demo of [Liferay Portal](https://hub.docker.com/r/mdelapenya/liferay-portal/) on [WeDeploy](https://wedeploy.com/).
 
-For more information about deploying Docker containers on WeDeploy, visit our [deploy documentation](https://wedeploy.com/docs/deploy/).
+## Instructions
+
+1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
+2. Clone this repository.
+3. Open the project with your command line and run `we deploy -p yourproject`.
+
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
