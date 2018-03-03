@@ -1,6 +1,6 @@
 # Liferay Portal [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Liferay Portal](https://hub.docker.com/r/mdelapenya/liferay-portal/) on [WeDeploy](https://wedeploy.com/).
+An example of [Liferay Portal](https://hub.docker.com/r/mdelapenya/liferay-portal/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
