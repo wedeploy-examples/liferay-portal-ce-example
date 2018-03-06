@@ -1,7 +1,7 @@
 {
-	"id": "portal",
-	"volume": "/usr/local/liferay-ce-portal-7.0-ga5",
-	"memory": 4096,
-	"cpu": 3,
-	"port": 8080
+  "id": "portal",
+  "volume": "/usr/local/liferay-ce-portal-7.0-ga5",
+  "memory": 4096,
+  "cpu": 3,
+  "port": 8080
 }
