@@ -1,8 +1,8 @@
-[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/liferay-portal-example)
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/liferay-portal-ce-example)
 
-# Liferay Portal
+# Liferay Portal CE 7.1
 
-An example of [Liferay Portal](https://hub.docker.com/r/mdelapenya/liferay-portal/) on [WeDeploy](https://wedeploy.com/).
+An example of [Liferay Portal CE 7.1](https://hub.docker.com/r/wedeploy/liferay-portal-ce/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
