@@ -1,6 +1,6 @@
 {
   "id": "liferay",
-  "image": "wedeploy/liferay-portal-ce:7.1.0-b3-1.0",
+  "image": "wedeploy/liferay-portal-ce:7.1.0-ga1-1.0",
   "memory": 4096,
   "cpu": 3,
   "healthCheck": {
